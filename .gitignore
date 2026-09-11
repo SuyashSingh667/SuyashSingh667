@@ -15,3 +15,5 @@ source-prepped.png
 __pycache__/
 *.py[cod]
 .env
+.venv/
+source-photo.jpg
