@@ -12,8 +12,6 @@
      portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
      wordmark: python scripts/make_wordmark_svg.py --mode rock -->
 
-<h3><code>suyash@github ~ $ whoami</code></h3>
-
 <table>
 <tr>
 <td valign="top"><img src="./suyash-ascii.svg" width="370" alt="Suyash Singh — ASCII portrait" /></td>
