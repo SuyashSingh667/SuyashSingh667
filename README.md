@@ -16,10 +16,11 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Suyash Singh — ASCII portrait" /></td>
+<td valign="top"><img src="./suyash-ascii.svg" width="370" alt="Suyash Singh — ASCII portrait" /></td>
 <td valign="top"><img src="./wordmark.svg" width="490" alt="SUYASH — 3D ASCII wordmark" /></td>
 </tr>
 </table>
+
 
 <br>
 <br>
